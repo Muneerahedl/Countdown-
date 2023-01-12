@@ -44,7 +44,7 @@ struct AddEventView: View {
                 
                 Text("Save")
                     
-                    .foregroundColor(Color("Tcolor"))
+                    //.foregroundColor(Color("Tcolor"))
                     //.background(Color("Tcolor"))
                     
             }

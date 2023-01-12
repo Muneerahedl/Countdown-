@@ -34,7 +34,7 @@ struct ContentView: View {
                                     VStack(alignment: .leading){
                                         Text(event.title ?? "")
                                             .fontWeight(.bold)
-                                           .foregroundColor(Color(.color(data: dateColor)!))
+                                           //.foregroundColor(Color(.color(data: dateColor)!))
                                         Text(date.convertDate(formattedString: .formattedType1))
                                     }
                                     Spacer()
@@ -66,7 +66,7 @@ struct ContentView: View {
             .toolbar {
                 ToolbarItem(placement: .navigationBarLeading) {
                     EditButton()
-                        .foregroundColor(Color("Tcolor"))
+                        //.foregroundColor(Color("Tcolor"))
                        // .foregroundColor(.white)
                 }
                 
@@ -76,7 +76,7 @@ struct ContentView: View {
                         isShowingAddEventView.toggle()
                     } label: {
                         Image(systemName: "plus.circle")
-                           .foregroundColor(Color("Tcolor"))
+                          // .foregroundColor(Color("Tcolor"))
                            .accessibility(label: Text("Add new countdown"))
                            
                     }
