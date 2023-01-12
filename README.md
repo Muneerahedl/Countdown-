@@ -27,7 +27,7 @@ Our application helps you to set your events and show your countdown based with 
 
 
 
-##Features to be add in the future:
+## Features to be add in the future:
 - Notification one day before the event & when finish.
 - Add Widget.
 - Support Apple watch
