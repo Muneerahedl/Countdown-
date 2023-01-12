@@ -78,7 +78,7 @@ struct ContentView: View {
                         Image(systemName: "plus.circle")
                            .foregroundColor(Color("Tcolor"))
                            .accessibility(label: Text("Add new countdown"))
-                           // .foregroundColor(.white)
+                           
                     }
 
                 }
