@@ -2,7 +2,7 @@
 //  NewProjectApp.swift
 //  NewProject
 //
-//  Created by modi on 19/06/1444 AH.
+//  Created by Modi Alshammari on 19/06/1444 AH.
 //
 
 import SwiftUI
