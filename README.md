@@ -17,5 +17,16 @@ An App that helps / provides a way for any person who wants to make a personaliz
 
 
 ## Challenge Summary:
-An application to set your events and sow your countdown based with a chosen color, the App support both Arabic & English language, also support Voice Over.
+Our application helps you to set your events and show your countdown based with your chosen color, the App support both Arabic & English language, also support Voice Over.
+
+<img width="1469" alt="كم باقي" src="https://user-images.githubusercontent.com/116567595/212078466-304b5949-1769-4043-92cd-459e5236ecea.png">
+
+
+
+##Future features to add:
+- Notification one day before the event & when finish.
+- Add Widget.
+- Support Apple watch
+
+
 
