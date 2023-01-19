@@ -43,6 +43,7 @@ struct AddEventView: View {
             } label: {
                 
                 Text("Save")
+                    .frame(width: 320, height: 30)
                     
                     //.foregroundColor(Color("Tcolor"))
                     //.background(Color("Tcolor"))
